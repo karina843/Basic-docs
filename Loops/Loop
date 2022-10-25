@@ -1,0 +1,31 @@
+ Loop :- TypeScript provides different types of loops to handle looping requirements.
+  1. Definite Loop :- A loop whose number of iterations are definite/fixed is termed as a definite loop.
+     - for loop
+  2. Indefinite Loop :- An indefinite loop is used when the number of iterations in a loop is indeterminate or unknown.
+     - while loop
+     - do.... while
+
+- for loop 
+      - The for loop is an implementation of    
+        a definite loop.
+
+- while loop
+        - The while loop executes the instructions each time the condition specified evaluates to true.
+
+- do....while
+       - The do…while loop is similar to the while loop except that the do...while loop doesn’t evaluate the condition for the first time the loop executes. 
+
+
+
+* The break Statement
+  - The break statement is used to take the control out of a construct. Using break in a loop causes the program to exit the loop.
+
+  - Syntax : break
+
+* The continue Statement
+  - The continue statement skips the subsequent statements in the current iteration and takes the control back to the beginning of the loop. Unlike the break statement, the continue doesn’t exit the loop. It terminates the current iteration and starts the subsequent iteration.
+
+  - Syntax : continue
+
+* The Infinite Loop
+  - An infinite loop is a loop that runs endlessly. The for loop and the while loop can be used to make an endless loop.

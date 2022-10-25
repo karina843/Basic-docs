@@ -1,0 +1,4 @@
+Conditional : The Typescript conditional operator is a Ternary Operator, which takes three operands. The first operand is a condition to evaluate. It is followed by a question mark (?), then an expression (expression1). It is then followed by a colon (:) and second expression (expression2). If the condition is true, then expression1 executes & if the condition is false, then expression2 executes. The conditional operator is a shorthand way to write an If else statement.
+
+
+shortly , The TypeScript if is one of the conditional statement that will be executed based on the user conditions

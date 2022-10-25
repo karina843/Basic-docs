@@ -1,0 +1,23 @@
++  (Addition)	       returns the sum of the operands	                       a + b
+-  (Subtraction)	   returns the difference of the values	                   a - b
+*  (Multiplication)	   returns the product of the values	                   a * b 
+/  (Division)	       performs a division operation and returns the quotient  a / b 
+%  (Modulus)	       performs a division and returns the remainder	       a % b
+++ (Increment)	       Increments the value of the variable by one	           a++ 
+-- (Decrement)	       Decrements the value of the variable by one	           a--
+
+
++ & – (Unary plus & Unary minus)       The unary plus operator (+) precedes its operand and 
+                                       converts it into a number. If it fails to convert the 
+                                       operand into a number, then it returns NaN. The unary (-) 
+                                       operator converts the operand into a number and negates it.
+
+** (Exponentiation operator)           The exponentiation operator (**) returns the result of raising 
+                                       the first operand to the power of the second operand.
+                                       
+    Examples :-          console.log(3 ** 4);         // 81
+                         console.log(10 ** -2);       // 0.01
+                         console.log(2 ** 3 ** 2);    // 512
+                         console.log((2 ** 3) ** 2);  //  64
+                         console.log(2 ** (3 ** 2));  // 512
+ 

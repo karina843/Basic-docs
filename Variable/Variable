@@ -1,0 +1,29 @@
+
+
+Variable : Variable is a named place in memory where some data/value can be stored. 
+According to the word variable, it can be said that the value of a variable can be changed/vary.
+
+shortly it is “a named space in the memory” that stores values.
+
+Some Easy Rules :-
+Variable names can contains alphabets both Upper-case as well as Lower-case and digits also.
+Variable name cant start with digit.
+We can use _ and $ special character only, apart from these other special characters are not allowed.
+
+
+
+Different Ways to declare :-
+var Identifier:Data-type = value;
+var Identifier: Data-type;
+var Identifier = value;
+var Identifier;
+
+some Simple Example :-
+
+  var string: string = "Hello"; 
+  var name: string = "Karina"; 
+  console.log(string + " from " + name);
+
+ Output :-
+
+   "Hello from Karina"
